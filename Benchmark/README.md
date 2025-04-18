@@ -2,7 +2,7 @@
 
 This directory contains the covers and stegos generated.
 
-| No. | Name          | Training |  | Testing     |        |ER|
+| No. | Name          | Train |  | Test     |        |ER|
 |-----|---------------|----------|---------|--------|--------|--------|
 |    |              | covers   | stegos  | covers | stegos | |
 | U1  | ArianaGrande  | 2,325    | 11      | 580    | 580| 3.88   |
