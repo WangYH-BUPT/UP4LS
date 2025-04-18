@@ -1,0 +1,225 @@
+2023/10/26 10:04:23 - INFO : Building Vocabulary....
+2023/10/26 10:04:23 - INFO : Loading Vocabulary from Cached Dictionary...
+2023/10/26 10:04:23 - INFO : Vocabulary of token 50002
+2023/10/26 10:04:23 - INFO : Vocabulary of label 2
+2023/10/26 10:04:23 - INFO : Loading 300-dimension token embedding from pretrained file: ./glove/glove.6B.300d.txt
+2023/10/26 10:04:31 - INFO : Total vocab size of token is 50002.
+2023/10/26 10:04:31 - INFO : Pretrained vocab embedding has 49965 / 50002
+2023/10/26 10:05:09 - INFO : TRAIN performance at epoch 0 --- Precision: 0.980594, Recall: 1.000000, f1: 0.990202, acc: 0.980594, Loss: 0.123191.
+
+2023/10/26 10:05:12 - INFO : DEV performance at epoch 0 --- Precision: 0.979452, Recall: 1.000000, f1: 0.989619, acc: 0.979452, Loss: 0.130341.
+
+2023/10/26 10:05:12 - INFO : Improve f1 0.0000 --> 0.9896
+2023/10/26 10:05:19 - INFO : TEST performance at epoch 0 --- Precision: 0.500000, Recall: 1.000000, f1: 0.666667, acc: 0.500000, Loss: 3.128804.
+
+2023/10/26 10:05:19 - INFO : Epoch 0 Time Cost 46.12859749794006 secs.
+2023/10/26 10:05:54 - INFO : TRAIN performance at epoch 1 --- Precision: 0.980594, Recall: 1.000000, f1: 0.990202, acc: 0.980594, Loss: 0.067845.
+
+2023/10/26 10:05:57 - INFO : DEV performance at epoch 1 --- Precision: 0.979452, Recall: 1.000000, f1: 0.989619, acc: 0.979452, Loss: 0.092548.
+
+2023/10/26 10:06:03 - INFO : TEST performance at epoch 1 --- Precision: 0.500000, Recall: 1.000000, f1: 0.666667, acc: 0.500437, Loss: 2.185578.
+
+2023/10/26 10:06:03 - INFO : Epoch 1 Time Cost 43.85322546958923 secs.
+2023/10/26 10:06:39 - INFO : TRAIN performance at epoch 2 --- Precision: 0.999418, Recall: 1.000000, f1: 0.999709, acc: 0.999429, Loss: 0.003195.
+
+2023/10/26 10:06:42 - INFO : DEV performance at epoch 2 --- Precision: 0.994764, Recall: 0.996503, f1: 0.995633, acc: 0.991438, Loss: 0.049499.
+
+2023/10/26 10:06:42 - INFO : Improve f1 0.9896 --> 0.9956
+2023/10/26 10:06:52 - INFO : TEST performance at epoch 2 --- Precision: 0.784341, Recall: 0.998252, f1: 0.878462, acc: 0.860670, Loss: 0.801790.
+
+2023/10/26 10:06:52 - INFO : Epoch 2 Time Cost 48.709691286087036 secs.
+2023/10/26 10:07:27 - INFO : TRAIN performance at epoch 3 --- Precision: 1.000000, Recall: 0.999418, f1: 0.999709, acc: 0.999429, Loss: 0.002070.
+
+2023/10/26 10:07:30 - INFO : DEV performance at epoch 3 --- Precision: 0.998246, Recall: 0.994755, f1: 0.996497, acc: 0.993151, Loss: 0.050969.
+
+2023/10/26 10:07:30 - INFO : Improve f1 0.9956 --> 0.9965
+2023/10/26 10:07:37 - INFO : TEST performance at epoch 3 --- Precision: 0.912903, Recall: 0.989510, f1: 0.949664, acc: 0.947552, Loss: 0.431442.
+
+2023/10/26 10:07:37 - INFO : Epoch 3 Time Cost 45.444823026657104 secs.
+2023/10/26 10:08:13 - INFO : TRAIN performance at epoch 4 --- Precision: 1.000000, Recall: 0.997672, f1: 0.998834, acc: 0.997717, Loss: 0.025414.
+
+2023/10/26 10:08:16 - INFO : DEV performance at epoch 4 --- Precision: 1.000000, Recall: 0.991259, f1: 0.995610, acc: 0.991438, Loss: 0.124656.
+
+2023/10/26 10:08:22 - INFO : TEST performance at epoch 4 --- Precision: 0.932886, Recall: 0.972028, f1: 0.952055, acc: 0.951049, Loss: 0.546490.
+
+2023/10/26 10:08:22 - INFO : Epoch 4 Time Cost 44.30577063560486 secs.
+2023/10/26 10:08:57 - INFO : TRAIN performance at epoch 5 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000103.
+
+2023/10/26 10:09:00 - INFO : DEV performance at epoch 5 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.053482.
+
+2023/10/26 10:09:00 - INFO : Improve f1 0.9965 --> 0.9965
+2023/10/26 10:09:07 - INFO : TEST performance at epoch 5 --- Precision: 0.836257, Recall: 1.000000, f1: 0.910828, acc: 0.902439, Loss: 0.779159.
+
+2023/10/26 10:09:07 - INFO : Epoch 5 Time Cost 45.4256272315979 secs.
+2023/10/26 10:09:42 - INFO : TRAIN performance at epoch 6 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000007.
+
+2023/10/26 10:09:45 - INFO : DEV performance at epoch 6 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.087152.
+
+2023/10/26 10:09:51 - INFO : TEST performance at epoch 6 --- Precision: 0.875767, Recall: 0.998252, f1: 0.933007, acc: 0.928322, Loss: 0.657010.
+
+2023/10/26 10:09:51 - INFO : Epoch 6 Time Cost 43.904165506362915 secs.
+2023/10/26 10:10:26 - INFO : TRAIN performance at epoch 7 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000005.
+
+2023/10/26 10:10:29 - INFO : DEV performance at epoch 7 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.089569.
+
+2023/10/26 10:10:35 - INFO : TEST performance at epoch 7 --- Precision: 0.818312, Recall: 1.000000, f1: 0.900079, acc: 0.888986, Loss: 1.056852.
+
+2023/10/26 10:10:35 - INFO : Epoch 7 Time Cost 44.10500454902649 secs.
+2023/10/26 10:11:10 - INFO : TRAIN performance at epoch 8 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000003.
+
+2023/10/26 10:11:13 - INFO : DEV performance at epoch 8 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.081741.
+
+2023/10/26 10:11:19 - INFO : TEST performance at epoch 8 --- Precision: 0.804501, Recall: 1.000000, f1: 0.891660, acc: 0.878603, Loss: 1.217225.
+
+2023/10/26 10:11:19 - INFO : Epoch 8 Time Cost 43.945531606674194 secs.
+2023/10/26 10:11:54 - INFO : TRAIN performance at epoch 9 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000003.
+
+2023/10/26 10:11:57 - INFO : DEV performance at epoch 9 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.090477.
+
+2023/10/26 10:12:03 - INFO : TEST performance at epoch 9 --- Precision: 0.824207, Recall: 1.000000, f1: 0.903633, acc: 0.893450, Loss: 1.034483.
+
+2023/10/26 10:12:03 - INFO : Epoch 9 Time Cost 44.14541435241699 secs.
+2023/10/26 10:12:38 - INFO : TRAIN performance at epoch 10 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000002.
+
+2023/10/26 10:12:41 - INFO : DEV performance at epoch 10 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.106893.
+
+2023/10/26 10:12:47 - INFO : TEST performance at epoch 10 --- Precision: 0.839941, Recall: 1.000000, f1: 0.913009, acc: 0.904637, Loss: 0.973882.
+
+2023/10/26 10:12:47 - INFO : Epoch 10 Time Cost 43.746593713760376 secs.
+2023/10/26 10:13:22 - INFO : TRAIN performance at epoch 11 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000002.
+
+2023/10/26 10:13:25 - INFO : DEV performance at epoch 11 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.093729.
+
+2023/10/26 10:13:31 - INFO : TEST performance at epoch 11 --- Precision: 0.830189, Recall: 1.000000, f1: 0.907216, acc: 0.897638, Loss: 1.033978.
+
+2023/10/26 10:13:31 - INFO : Epoch 11 Time Cost 43.96615982055664 secs.
+2023/10/26 10:14:06 - INFO : TRAIN performance at epoch 12 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000002.
+
+2023/10/26 10:14:09 - INFO : DEV performance at epoch 12 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.095726.
+
+2023/10/26 10:14:14 - INFO : TEST performance at epoch 12 --- Precision: 0.835036, Recall: 1.000000, f1: 0.910103, acc: 0.900964, Loss: 1.035866.
+
+2023/10/26 10:14:14 - INFO : Epoch 12 Time Cost 43.74404191970825 secs.
+2023/10/26 10:14:50 - INFO : TRAIN performance at epoch 13 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:14:53 - INFO : DEV performance at epoch 13 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.098382.
+
+2023/10/26 10:14:58 - INFO : TEST performance at epoch 13 --- Precision: 0.835036, Recall: 1.000000, f1: 0.910103, acc: 0.901137, Loss: 1.042315.
+
+2023/10/26 10:14:58 - INFO : Epoch 13 Time Cost 44.005688190460205 secs.
+2023/10/26 10:15:34 - INFO : TRAIN performance at epoch 14 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:15:37 - INFO : DEV performance at epoch 14 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.088552.
+
+2023/10/26 10:15:43 - INFO : TEST performance at epoch 14 --- Precision: 0.827786, Recall: 1.000000, f1: 0.905780, acc: 0.895979, Loss: 1.085234.
+
+2023/10/26 10:15:43 - INFO : Epoch 14 Time Cost 44.065507650375366 secs.
+2023/10/26 10:16:18 - INFO : TRAIN performance at epoch 15 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:16:21 - INFO : DEV performance at epoch 15 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.106688.
+
+2023/10/26 10:16:27 - INFO : TEST performance at epoch 15 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903593, Loss: 1.043136.
+
+2023/10/26 10:16:27 - INFO : Epoch 15 Time Cost 43.98521089553833 secs.
+2023/10/26 10:17:02 - INFO : TRAIN performance at epoch 16 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:17:05 - INFO : DEV performance at epoch 16 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.104544.
+
+2023/10/26 10:17:10 - INFO : TEST performance at epoch 16 --- Precision: 0.836257, Recall: 1.000000, f1: 0.910828, acc: 0.902012, Loss: 1.058847.
+
+2023/10/26 10:17:10 - INFO : Epoch 16 Time Cost 43.74569916725159 secs.
+2023/10/26 10:17:45 - INFO : TRAIN performance at epoch 17 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:17:48 - INFO : DEV performance at epoch 17 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.108564.
+
+2023/10/26 10:17:54 - INFO : TEST performance at epoch 17 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903678, Loss: 1.064469.
+
+2023/10/26 10:17:54 - INFO : Epoch 17 Time Cost 43.78604865074158 secs.
+2023/10/26 10:18:29 - INFO : TRAIN performance at epoch 18 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:18:32 - INFO : DEV performance at epoch 18 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.085872.
+
+2023/10/26 10:18:38 - INFO : TEST performance at epoch 18 --- Precision: 0.826590, Recall: 1.000000, f1: 0.905063, acc: 0.895105, Loss: 1.162888.
+
+2023/10/26 10:18:38 - INFO : Epoch 18 Time Cost 44.00551152229309 secs.
+2023/10/26 10:19:14 - INFO : TRAIN performance at epoch 19 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:19:16 - INFO : DEV performance at epoch 19 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.116775.
+
+2023/10/26 10:19:22 - INFO : TEST performance at epoch 19 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903846, Loss: 1.056890.
+
+2023/10/26 10:19:22 - INFO : Epoch 19 Time Cost 44.106706857681274 secs.
+2023/10/26 10:19:57 - INFO : TRAIN performance at epoch 20 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000001.
+
+2023/10/26 10:20:00 - INFO : DEV performance at epoch 20 --- Precision: 0.996510, Recall: 0.996510, f1: 0.996510, acc: 0.993151, Loss: 0.112404.
+
+2023/10/26 10:20:00 - INFO : Improve f1 0.9965 --> 0.9965
+2023/10/26 10:20:14 - INFO : TEST performance at epoch 20 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903846, Loss: 1.079719.
+
+2023/10/26 10:20:14 - INFO : Epoch 20 Time Cost 52.12042498588562 secs.
+2023/10/26 10:20:50 - INFO : TRAIN performance at epoch 21 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:20:53 - INFO : DEV performance at epoch 21 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.106447.
+
+2023/10/26 10:20:58 - INFO : TEST performance at epoch 21 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903762, Loss: 1.082470.
+
+2023/10/26 10:20:58 - INFO : Epoch 21 Time Cost 43.92547416687012 secs.
+2023/10/26 10:21:34 - INFO : TRAIN performance at epoch 22 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:21:36 - INFO : DEV performance at epoch 22 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.098772.
+
+2023/10/26 10:21:42 - INFO : TEST performance at epoch 22 --- Precision: 0.832606, Recall: 1.000000, f1: 0.908658, acc: 0.899476, Loss: 1.123193.
+
+2023/10/26 10:21:42 - INFO : Epoch 22 Time Cost 43.94509768486023 secs.
+2023/10/26 10:22:17 - INFO : TRAIN performance at epoch 23 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:22:20 - INFO : DEV performance at epoch 23 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.106208.
+
+2023/10/26 10:22:26 - INFO : TEST performance at epoch 23 --- Precision: 0.837482, Recall: 1.000000, f1: 0.911554, acc: 0.902802, Loss: 1.105206.
+
+2023/10/26 10:22:26 - INFO : Epoch 23 Time Cost 43.74568247795105 secs.
+2023/10/26 10:23:01 - INFO : TRAIN performance at epoch 24 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:23:04 - INFO : DEV performance at epoch 24 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.107025.
+
+2023/10/26 10:23:10 - INFO : TEST performance at epoch 24 --- Precision: 0.836257, Recall: 1.000000, f1: 0.910828, acc: 0.902098, Loss: 1.108760.
+
+2023/10/26 10:23:10 - INFO : Epoch 24 Time Cost 43.686612367630005 secs.
+2023/10/26 10:23:45 - INFO : TRAIN performance at epoch 25 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:23:48 - INFO : DEV performance at epoch 25 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.110120.
+
+2023/10/26 10:23:48 - WARNING : Performance has not been improved for 5 epochs, updating learning rate
+2023/10/26 10:23:48 - WARNING : Learning rate update 2.962962962962963e-06--->2.962962962962963e-06
+2023/10/26 10:23:54 - INFO : TEST performance at epoch 25 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903762, Loss: 1.098163.
+
+2023/10/26 10:23:54 - INFO : Epoch 25 Time Cost 43.98485779762268 secs.
+2023/10/26 10:24:29 - INFO : TRAIN performance at epoch 26 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:24:32 - INFO : DEV performance at epoch 26 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.131467.
+
+2023/10/26 10:24:37 - INFO : TEST performance at epoch 26 --- Precision: 0.848665, Recall: 1.000000, f1: 0.918138, acc: 0.910605, Loss: 1.043529.
+
+2023/10/26 10:24:37 - INFO : Epoch 26 Time Cost 43.80677318572998 secs.
+2023/10/26 10:25:13 - INFO : TRAIN performance at epoch 27 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:25:16 - INFO : DEV performance at epoch 27 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.095383.
+
+2023/10/26 10:25:21 - INFO : TEST performance at epoch 27 --- Precision: 0.831395, Recall: 1.000000, f1: 0.907937, acc: 0.898513, Loss: 1.162771.
+
+2023/10/26 10:25:21 - INFO : Epoch 27 Time Cost 44.07551288604736 secs.
+2023/10/26 10:25:57 - INFO : TRAIN performance at epoch 28 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:26:00 - INFO : DEV performance at epoch 28 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.117212.
+
+2023/10/26 10:26:05 - INFO : TEST performance at epoch 28 --- Precision: 0.838710, Recall: 1.000000, f1: 0.912281, acc: 0.903846, Loss: 1.098412.
+
+2023/10/26 10:26:05 - INFO : Epoch 28 Time Cost 43.89356279373169 secs.
+2023/10/26 10:26:41 - INFO : TRAIN performance at epoch 29 --- Precision: 1.000000, Recall: 1.000000, f1: 1.000000, acc: 1.000000, Loss: 0.000000.
+
+2023/10/26 10:26:44 - INFO : DEV performance at epoch 29 --- Precision: 0.996503, Recall: 0.996503, f1: 0.996503, acc: 0.993151, Loss: 0.094257.
+
+2023/10/26 10:26:49 - INFO : TEST performance at epoch 29 --- Precision: 0.831395, Recall: 1.000000, f1: 0.907937, acc: 0.898513, Loss: 1.162678.
+
+2023/10/26 10:26:49 - INFO : Epoch 29 Time Cost 43.92735195159912 secs.
+2023/10/26 10:26:49 - INFO : [Best] test: performance | acc:0.9521  |  f1:0.9510 .
