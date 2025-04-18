@@ -1,6 +1,6 @@
-# LLMs
+# BERT model
 
-This directory contains some necessary model. However, due to the large size of the models, the links are given here.
+This directory contains some necessary models. However, due to the large size of the models, the links are given here.
 
 ### BERT-base-uncased
 - HuggingFace Weights: https://huggingface.co/google-bert/bert-base-uncased/tree/main
