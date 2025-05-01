@@ -23,27 +23,7 @@
 │
 ├── Baselines             #(HiTIN_ACL2023 and HypEmo_ACL2023)
 │   ├── HiTIN_ACL2023
-│   │   ├── config
-│   │   ├── data
-│   │   ├── data_modules
-│   │   ├── helper
-│   │   ├── models
-│   │   ├── train_modules
-│   │   ├── vocab
-│   │   ├── README.md
-│   │   ├── train.py
-│   │   └── train_tem.py
 │   └── HypEmo_ACL2023
-│       ├── config
-│       ├── data
-│       ├── data_modules
-│       ├── helper
-│       ├── models
-│       ├── train_modules
-│       ├── vocab
-│       ├── README.md
-│       ├── train.py
-│       └── train_tem.py
 │
 ├── Benchmark  #(This directory contains the covers and stegos generated.)
 │   ├── ArianaGrande
