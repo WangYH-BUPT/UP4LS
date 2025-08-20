@@ -25,19 +25,6 @@
 │   ├── HiTIN_ACL2023
 │   └── HypEmo_ACL2023
 │
-├── Benchmark  #(This directory contains the covers and stegos generated.)
-│   ├── ArianaGrande
-│   ├── BarackObama
-│   ├── Britneyspears
-│   ├── Cristiano
-│   ├── Ddlovato
-│   ├── Jimmyfallon
-│   ├── Justinbieber
-│   ├── KimKardashian
-│   ├── Ladygaga
-│   ├── Selenagomez
-│   └── README.md
-│
 ├── Code 
 │   ├── data_bert.py
 │   ├── data_prepare.py
